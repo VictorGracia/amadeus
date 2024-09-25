@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "amadeus_db/amadeus_db.sqlproj"
+    ]
+}
